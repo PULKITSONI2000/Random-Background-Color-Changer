@@ -1,6 +1,7 @@
 # bg_color_changer
 
-A new Flutter project.
+A new Flutter project,Random Background color Changer. 
+
 
 ## Getting Started
 
